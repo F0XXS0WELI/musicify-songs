@@ -36,14 +36,6 @@
     },
     {
       "type":"song",
-      "name":"Microwave",
-      "author": "Project-G",
-      "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Microwave.dfpwm",
-      "time": 258
-    },
-    {
-      "type":"song",
       "name":"Dramaqueen",
       "author": "7OAST",
       "speed": 1,
