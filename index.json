@@ -3,13 +3,6 @@
   "indexName":"Apollo",
   "songs": [
     {
-      "type":"song",
-      "name":"Honeyhive Galaxy",
-      "author": "Silvagunner",
-      "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Honeyhive_Galaxy.dfpwm",
-      "time": 152
-    },
     {
       "type":"song",
       "name":"Day and Day",
@@ -32,14 +25,6 @@
       "author": "Diverse System",
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Pulse.dfpwm",
-      "time": 152
-    },
-    {
-      "type":"song",
-      "name":"Tem Village",
-      "author": "Toby Fox",
-      "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/tem-village.dfpwm",
       "time": 152
     },
     {
