@@ -12,14 +12,6 @@
     },
     {
       "type":"song",
-      "name":"Microwave",
-      "author": "Diverse System",
-      "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Microwave.dfpwm",
-      "time": 152
-    },
-    {
-      "type":"song",
       "name":"Pulse",
       "author": "Diverse System",
       "speed": 1,
