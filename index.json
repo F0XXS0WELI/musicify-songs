@@ -5,26 +5,26 @@
     {
       "type":"song",
       "name":"Day and Day",
-      "author": "Diverse System",
+      "author": "SynCro",
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Day-and-Day.dfpwm",
-      "time": 152
+      "time": 203
     },
     {
       "type":"song",
       "name":"Pulse",
-      "author": "Diverse System",
+      "author": "Tengyou",
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Pulse.dfpwm",
-      "time": 152
+      "time": 226
     },
     {
       "type":"song",
       "name":"Sunshade",
-      "author": "Diverse System",
+      "author": "Icesawder",
       "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Honeyhive_Galaxy.dfpwm",
-      "time": 152
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Sunshade.dfpwm",
+      "time": 268
     }
   ]
 }
