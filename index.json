@@ -33,6 +33,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Transition_State.dfpwm",
       "time": 301
+    },
+    {
+      "type":"song",
+      "name":"Microwave",
+      "author": "Project-G",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Microwave.dfpwm",
+      "time": 258
     }
   ]
 }
