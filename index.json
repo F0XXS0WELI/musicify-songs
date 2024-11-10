@@ -65,6 +65,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/SolidCube.dfpwm",
       "time": 210
+    },
+    {
+      "type":"song",
+      "name":"The Here and Hereafter",
+      "author": "If These Trees Could Talk",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/The_Here_and_Hereafter.dfpwm",
+      "time": 153
     }
   ]
 }
