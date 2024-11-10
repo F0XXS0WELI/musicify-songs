@@ -73,6 +73,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/The_Here_and_Hereafter.dfpwm",
       "time": 153
+    },
+    {
+      "type":"song",
+      "name":"Suicide by Star",
+      "author": "God is an Astronaut",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Suicide_by_Star.dfpwm",
+      "time": 272
     }
   ]
 }
