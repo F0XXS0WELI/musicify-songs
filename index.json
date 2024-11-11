@@ -68,6 +68,14 @@
     },
     {
       "type":"song",
+      "name":"Dive To Zone",
+      "author": "Ryo Arue",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Dive_To_Zone.dfpwm",
+      "time": 287
+    },
+    {
+      "type":"song",
       "name":"The Here and Hereafter",
       "author": "If These Trees Could Talk",
       "speed": 1,
