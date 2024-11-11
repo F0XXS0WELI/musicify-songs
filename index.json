@@ -97,6 +97,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Rough_Sex.dfpwm",
       "time": 179
+    },
+    {
+      "type":"song",
+      "name":"Pulse Demon",
+      "author": "Merzbow",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Merzbow.dfpwm",
+      "time": 179
     }
   ]
 }
