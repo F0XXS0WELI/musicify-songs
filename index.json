@@ -76,6 +76,14 @@
     },
     {
       "type":"song",
+      "name":"Signs",
+      "author": "Hate",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Signs.dfpwm",
+      "time": 265
+    },
+    {
+      "type":"song",
       "name":"The Here and Hereafter",
       "author": "If These Trees Could Talk",
       "speed": 1,
