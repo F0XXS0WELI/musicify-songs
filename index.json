@@ -89,6 +89,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Fragile.dfpwm",
       "time": 273
+    },
+    {
+      "type":"song",
+      "name":"Rough Sex",
+      "author": "Decoder Ring",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Rough_Sex.dfpwm",
+      "time": 179
     }
   ]
 }
