@@ -129,6 +129,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/head.dfpwm",
       "time": 53
+    },
+    {
+      "type":"song",
+      "name":"Carpet Bomb",
+      "author": "Femtanyl",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/CarpetBomb.dfpwm",
+      "time": 204
     }
   ]
 }
