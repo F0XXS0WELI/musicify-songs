@@ -68,6 +68,70 @@
     },
     {
       "type":"song",
+      "name":"My Own World",
+      "author": "Kidlit",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/my own world.dfpwm",
+      "time": 328
+    },
+    {
+      "type":"song",
+      "name":"Scissors and Glue",
+      "author": "和泉幸奇",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Scissors and Glue.dfpwm",
+      "time": 328
+    },
+    {
+      "type":"song",
+      "name":"A.M.6:00",
+      "author": "Rin",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/A.M.600.dfpwm",
+      "time": 221
+    },
+    {
+      "type":"song",
+      "name":"Cappuccino",
+      "author": "Puru",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Cappuccino.dfpwm",
+      "time": 323
+    },
+    {
+      "type":"song",
+      "name":"Phenomena",
+      "author": "Atomic",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Phenomena.dfpwm",
+      "time": 307
+    },
+    {
+      "type":"song",
+      "name":"Heat Capacity",
+      "author": "Frums",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Heat Capacity.dfpwm",
+      "time": 290
+    },
+    {
+      "type":"song",
+      "name":"8ightpp/s",
+      "author": "Frums",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/8ighttp_s.dfpwm",
+      "time": 241
+    },
+    {
+      "type":"song",
+      "name":"Wooden Ruler",
+      "author": "和泉幸奇",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/wooden ruler.dfpwm",
+      "time": 308
+    },
+    {
+      "type":"song",
       "name":"Signs",
       "author": "Hate",
       "speed": 1,
