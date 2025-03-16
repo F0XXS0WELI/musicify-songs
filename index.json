@@ -52,14 +52,6 @@
     },
     {
       "type":"song",
-      "name":"Clockwork System",
-      "author": "Naturegraph",
-      "speed": 1,
-      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Clockwork_System.dfpwm",
-      "time": 319
-    },
-    {
-      "type":"song",
       "name":"SolidCube",
       "author": "Sakuzyo",
       "speed": 1,
@@ -81,6 +73,14 @@
       "speed": 1,
       "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Signs.dfpwm",
       "time": 265
+    },
+    {
+      "type":"song",
+      "name":"Clockwork System",
+      "author": "Naturegraph",
+      "speed": 1,
+      "file": "https://github.com/F0XXS0WELI/musicify-songs/raw/main/music/Clockwork_System.dfpwm",
+      "time": 319
     },
     {
       "type":"song",
